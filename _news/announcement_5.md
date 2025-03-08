@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper was accepted to CVPR.
+1 paper was accepted to CVPR 2025.
