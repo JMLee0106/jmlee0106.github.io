@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-3 papers were accepted to ICRA 2025.
+Three papers were accepted to ICRA 2025.

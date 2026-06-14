@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I succesfully defended my Ph.D. with the thesis titled **Efficient and Scalable Methods for Contact Manipulation: From Simulation to Estimation and Planning**.
+I successfully defended my Ph.D. with the [thesis](https://dcollection.snu.ac.kr/public_resource/pdf/000000186350_20260613232819.pdf).

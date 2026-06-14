@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected as an RSS pioneers!
+Selected as an [RSS Pioneer 2025](https://sites.google.com/view/rsspioneers2025/participants).
